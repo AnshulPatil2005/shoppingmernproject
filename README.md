@@ -1,4 +1,5 @@
-
+https://www.youtube.com/watch?v=O3BUHwfHf84&list=PLPj0Wnf-LH7gIMIgUlMGjfw5NuJmrIMLc&index=2
+mern stack referal link
 
 ### Setup .env file to connect with your database
  make a .env file that connects your program with the data base 
