@@ -18,3 +18,10 @@ Start the app
 npm run start
 ```
 
+### This app uses node.js version 2.2.12 so it is recommended to use this info while using the cluster on mongoose
+
+### use npm install @2.2.12 -->this install the mongoose driver of version of node.js
+
+### run npm install -g win-node-env -->this command makes sure the programme runs on windows 
+
+### dont use special characters in the username or password of the cluster as it causes error when posting the link in the dotenv file
